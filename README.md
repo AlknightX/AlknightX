@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Dev Alk 😁
 
-Olá, me chamo Diego Portugal (ou Alk para os íntimos 😎), tenho 29 anos, sou do Rio de Janeiro, Brasil. Técnico em informática Jr. - Hospital Niterói D'Or - Rede D'Or São Luiz, formado no curso superior em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia, manutenção e suporte de rede e desenvolvimento de softwares, estudo programação desde os 16 anos, com ênfase em desenvolvimento, montagem e manutenção sempre foram um hobby a parte, instalação e configuração de redes e cabeamentos identificar e solucionar os problemas, raciocínio lógico e desafios me motivam a cada dia buscar a me aperfeiçoar ainda mais.¯\_(ツ)_/¯
+Olá, me chamo Diego Portugal (ou Alk para os íntimos 😎), tenho 29 anos, sou do Rio de Janeiro, Brasil. Técnico em informática Jr. - Hospital Niterói D'Or - Rede D'Or São Luiz, formado no curso superior em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia, manutenção e suporte de rede e desenvolvimento de softwares, estudo programação desde os 16 anos, com ênfase em desenvolvimento, montagem e manutenção sempre foram um hobby a parte, instalação e configuração de redes e cabeamentos identificar e solucionar os problemas, raciocínio lógico e desafios me motivam a cada dia buscar a me aperfeiçoar ainda mais.    ¯\_(ツ)_/¯
 
  <div>
    <a href="https://github.com/AlknightX">
