@@ -25,7 +25,7 @@ Olá, me chamo Diego Albernaz, tenho 30 anos, sou do Rio de Janeiro, Brasil. Ana
  
 <div> 
   <a href="https://www.instagram.com/diegop__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/diego-portugal-20a444103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/diego-albernaz-17303216a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AlknightX/AlknightX/blob/output/github-contribution-grid-snake.svg)
 
