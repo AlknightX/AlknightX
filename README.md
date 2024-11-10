@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Dev D.A 😁
 
-Olá, me chamo Diego Albernaz, tenho 30 anos, sou do Rio de Janeiro, Brasil. Analista de Suporte em TI. - Hospital Niterói D'Or - Rede D'Or São Luiz, formado no curso superior em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia, manutenção e suporte de rede e desenvolvimento de softwares, estudo programação desde os 16 anos, com ênfase em desenvolvimento, montagem e manutenção sempre foram um hobby a parte, instalação e configuração de redes e cabeamentos identificar e solucionar os problemas, raciocínio lógico e desafios me motivam a cada dia buscar a me aperfeiçoar ainda mais.    
+Olá, me chamo Diego Albernaz, tenho 31 anos, sou do Rio de Janeiro, Brasil. Analista de Suporte em TI. Rede D'Or São Luiz, formado no curso superior em Análise e Desenvolvimento de Sistemas (ADS). Apaixonado por tecnologia, manutenção e suporte de rede e desenvolvimento de softwares, estudo programação desde os 16 anos, com ênfase em desenvolvimento, montagem e manutenção sempre foram um hobby a parte, instalação e configuração de redes e cabeamentos identificar e solucionar os problemas, raciocínio lógico e desafios me motivam a cada dia buscar a me aperfeiçoar ainda mais.    
 
  <div>
    <a href="https://github.com/AlknightX">
